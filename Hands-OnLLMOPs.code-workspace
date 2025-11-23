@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Hands-OnLLMOPs",
+			"path": "."
+		},
+		{
+			"name": "MysteriousAI:Mia-1B",
+			"path": "../../../Downloads/MysteriousAI:Mia-1B"
+		}
+	],
+	"settings": {}
+}
